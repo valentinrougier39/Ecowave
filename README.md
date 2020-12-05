@@ -1,5 +1,5 @@
 # Ecowave
-Application Web développée en collaboration avec Mattéo Ladrat, Jean Laurent, Emma Nguyen Van Giau et Benjamin Pelaudeix lors de la Nuit de l'info 2020. 
+Application Web développée en collaboration avec [Mattéo Ladrat](https://github.com/Apokalypt), [Jean Laurent](https://github.com/jeanlrnt), [Emma Nguyen Van Giau](https://github.com/Emma-NVG) et [Benjamin Pelaudeix](https://github.com/Benjamin-Pelaudeix) lors de la Nuit de l'info 2020. 
 
 ## Présentation 
 La Nuit de l'Info est une compétition nationale qui réunit tous les acteurs du domaine informatique. Elle s'est déroulée le jeudi 3 décembre de 16H39 au vendredi 4 décembre à 8H02, pour un total de 15H32 d'épreuve. Lors de cette compétition nous devons répondre au sujet national donné. En plus, nous avons la possibilité de répondre à d'autres défis proposés. Cet édition était le premier gros défi auquel nous participions.
@@ -58,8 +58,8 @@ Il peut aussi bien sûr démarrer une session grâce au bouton "play".
 Version ordinateur : 
 ![Details sur le spot / D / Desktop](mockupDesktop/launchSession.jpg)
 Version Mobile : 
-![Details sur le post  : détails météorologiques et environnementaux / D / Mobile](mockupMobile/launchSession.jpg)
-![Details sur le spot : commentaires des utilisateurs](mockupMobile/noticeSpot.jpg)
+![Details sur le post  : détails météorologiques et environnementaux / D / Mobile](mockupMobile/launchSessionBis.png)
+![Details sur le spot : commentaires des utilisateurs](mockupMobile/noticeSpotBis.png)
 
 Une fois sa session terminée il peut cliquer sur le bouton stop : 
 ![Fin de session / D / Desktop](mockupDesktop/closeSession.jpg)
@@ -71,7 +71,7 @@ Version ordinateur :
 ![Formulaire de fin de session / D / Desktop](mockupDesktop/sessionForm.jpg)
 
 Version mobile :
-![Formulaire de fin de session / D / Mobile](mockupMobile/sessionForm1.jpg)
+![Formulaire de fin de session / D / Mobile](mockupMobile/sessionForm1Bis.png)
 
 Une fois ce questionnaire envoyé, l'utilisateur est redirigé vers l'accueil. 
 
@@ -86,7 +86,7 @@ Nous aurions aimé intégrer une liste de ses sessions si nous avions eu plus de
 
 #### Logo
 Il fallait intégrer dans le logo, tous les éléments incontournables présents dans le sujet. 
-![Logo Ecowave](Logo.png)
+![Logo Ecowave](LogoBis.png)
 
 #### Site bilingue : français/anglais
 La langue de l'application est modifiable en cliquant sur le drapeau en haut à droite.
