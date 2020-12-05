@@ -54,11 +54,11 @@ Cette interface permet à celui-ci de rechercher son spot, via une liste qui peu
 Lorsque l'utilisateur a trouvé son spot il peut consulter des informations sur la météo.
 ![Affichage spots / D](mockupDesktop/spotDetails.jpeg)
 En cliquant sur le spot il découvrira d'autres statistiques, celles environnementales. En effet, la qualité de l'eau est très importante, une eau polluée est la cause de nombreux cas de maladies chez les surfeurs. De plus si certains sportifs ont laissés des avis sur ce spot, ils seront consultables à cet endroit-ci.
-Il peut aussi bien sûr démarrer une session grâce au bouton "play". 
+Il peut aussi bien sûr démarrer une session grâce au bouton "play".    
 Version ordinateur : 
 ![Details sur le spot / D / Desktop](mockupDesktop/launchSession.jpg)
-Version Mobile : 
-![Details sur le post  : détails météorologiques et environnementaux / D / Mobile](mockupMobile/launchSessionBis.png)
+Version Mobile :   
+![Details sur le post  : détails météorologiques et environnementaux / D / Mobile](mockupMobile/launchSessionBis.png)       
 ![Details sur le spot : commentaires des utilisateurs](mockupMobile/noticeSpotBis.png)
 
 Une fois sa session terminée il peut cliquer sur le bouton stop : 
@@ -70,7 +70,7 @@ Malgré tout il possède un champ pour s'exprimer librement. Ce champ sert d'avi
 Version ordinateur : 
 ![Formulaire de fin de session / D / Desktop](mockupDesktop/sessionForm.jpg)
 
-Version mobile :
+Version mobile :          
 ![Formulaire de fin de session / D / Mobile](mockupMobile/sessionForm1Bis.png)
 
 Une fois ce questionnaire envoyé, l'utilisateur est redirigé vers l'accueil. 
