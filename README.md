@@ -15,7 +15,9 @@ D'autres défis étaient disponbiles, nous avons choisis les défis suivants :
 
 
 ## Détails du projet
-Nous avons décidé d'élaborer ce site avec l'objectif de le rendre fonctionnel et non pas uniquement esthétique même si nous savions que ce serait difficile de terminer le projet comme nous le souhaitions. En effet, nous n'avons pas eu le temps de terminer ce projet, il manque nottament des éléments dans l'enregitrement d'une session, le module de déconnexion et la gestion de statistiques. 
+Nous avons décidé d'élaborer ce site avec l'objectif de le rendre fonctionnel et non pas uniquement esthétique même si nous savions que ce serait difficile de terminer le projet comme nous le souhaitions dans le temps imparti. 
+Malheureusement, il y a eu un écart entre la version rendue et celle que nous espérions car nous n'avons pas eu le temps de terminer ce projet, il manque notamment des éléments dans l'enregistrement d'une session, le module de déconnexion et la gestion de statistiques...
+Pour présenter aussi ce qu'aurait dû être la version finale, des maquettes seront présentées tout au long de la description.
 
 On peut découper le projet en 3 parties : 
 * Page d'accueil
@@ -24,5 +26,6 @@ On peut découper le projet en 3 parties :
 
 ### Page d'accueil 
 
+#### Version rendue 
 
 README en cours d'écriture
