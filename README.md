@@ -100,3 +100,14 @@ Le leet speak c'est quoi ? C'est un langage qui remplace chaque caractère par d
 ## Spécifications techniques
 Du fait de nos connaissances, nous avons souhaité utiliser les langages PHP et Javascript en plus des traditionnels HTML et CSS. 
 Pour récupérer les données météorologiques précises de chaque spot, nous avons utilisé l'API proposée par World Weather Online car celle-ci propose toutes les informations dont nous avions besoin.
+
+## Outils & langages
+
+#### Projet développé en : 
+- HTML
+- CSS
+- JavaScript
+- MySQL
+
+#### Avec : 
+- PhpStorm
