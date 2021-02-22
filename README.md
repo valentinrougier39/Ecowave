@@ -108,6 +108,7 @@ Pour récupérer les données météorologiques précises de chaque spot, nous a
 - CSS
 - JavaScript
 - MySQL
+- PHP
 
 #### Avec : 
 - PhpStorm
